@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Copland will come before Radley
 Use the left arrow to go back!
